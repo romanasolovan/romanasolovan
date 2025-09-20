@@ -33,9 +33,7 @@
 > 💜 Team Player  
 > 📚 Curious Mind  
 
-</td>
-<td width="50%" valign="top">
-
+---
 ## 🛠 Tech Stack  
 
 <p align="center">
@@ -47,7 +45,9 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
----
+
+</td>
+<td width="50%" valign="top">
 
 ## 📊 GitHub Stats  
 
