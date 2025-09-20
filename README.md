@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anastasia!  
+# Hi there 👋, I'm Romana!  
 
 💻 Frontend & Backend Developer | 🎨 Visual Learner | 🌍 Traveler  
 
