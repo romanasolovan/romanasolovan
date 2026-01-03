@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer • React • Next.js • TypeScript</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge" /></a>
+  <a href="https://romana-solovan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/romana-solovan-12b54a2a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:solo.rv95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
